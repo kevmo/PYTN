@@ -27,7 +27,7 @@ Data Science From Scratch, Joel Grus, O'Reilly
 
 Python For Data Analysis, 2nd Edition, Wes McKinney, O'Reilly
 
-The Manga Guide To Linear Algebra, No Starch Press, 
+The Manga Guide To Linear Algebra, No Starch Press, i
 
 
 ## Articles 
@@ -46,3 +46,13 @@ The Manga Guide To Linear Algebra, No Starch Press,
 ### Community 
 
 [Reddit.com/r/datascience](https://www.reddit.com/r/datascience/)
+
+## Handy `conda` commands
+
+Create a virtual environment: 
+
+`conda create --name PYTN python=3`
+
+Remove an virtual environment:
+
+`conda env remove -n PYTN`
