@@ -53,6 +53,14 @@ Create a virtual environment:
 
 `conda create --name PYTN python=3`
 
+Activate a virtual environment:
+
+`source activate PYTN`
+
+Deactivate a virtual environment:
+
+`source deactivate PYTN`
+
 Remove an virtual environment:
 
 `conda env remove -n PYTN`

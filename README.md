@@ -47,3 +47,18 @@ Go to [localhost:8888](http://localhost:8888).
 ## Want more?
 
 [Go check out the Resources section](RESOURCES.md).
+
+
+## Gotcha
+
+If you're having a package import error, try running the following
+from within your conda environment: 
+
+```
+conda install notebook ipykernel
+ipython kernel install --user
+```
+
+## Errata
+
+Errata will go here.
