@@ -30,15 +30,17 @@ It also installs this repo's dependencies.  From the root directory, run:
 
 `conda create --name PYTN python=3.6.4 --file spec-list.txt`
 
-**3. Activate the notebook.**
+**3. Activate the environment.**
 
 `source activate PYTN`
 
-**4. Activate the Jupyter notebook.**
+**4. Activate Jupyter notebook in the `nbs` directory.**
+
+`cd nbs`
 
 `jupyter notebook`
 
-**5. Go work through the Jupyter notebook.**
+**5. Go work through the PYTN Jupyter notebook.**
 
 Go to [localhost:8888](http://localhost:8888).
 
