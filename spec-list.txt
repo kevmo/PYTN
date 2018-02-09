@@ -27,6 +27,7 @@ https://repo.continuum.io/pkgs/main/osx-64/sqlite-3.22.0-h3efe00b_0.tar.bz2
 https://repo.continuum.io/pkgs/main/osx-64/python-3.6.4-hc167b69_1.tar.bz2
 https://repo.continuum.io/pkgs/main/osx-64/appnope-0.1.0-py36hf537a9a_0.tar.bz2
 https://repo.continuum.io/pkgs/main/osx-64/asn1crypto-0.24.0-py36_0.tar.bz2
+https://conda.anaconda.org/anaconda/osx-64/beautifulsoup4-4.6.0-py36h72d3c9f_1.tar.bz2
 https://repo.continuum.io/pkgs/main/osx-64/certifi-2018.1.18-py36_0.tar.bz2
 https://repo.continuum.io/pkgs/main/osx-64/chardet-3.0.4-py36h96c241c_1.tar.bz2
 https://repo.continuum.io/pkgs/main/osx-64/decorator-4.2.1-py36_0.tar.bz2
