@@ -44,7 +44,9 @@ It also installs this repo's dependencies.  From the root directory, run:
 
 **5. Go work through the PYTN Jupyter notebook.**
 
-Go to [localhost:8888](http://localhost:8888).
+Go to [localhost:8888](http://localhost:8888).  
+
+Cell menu > "Run All"
 
 
 
