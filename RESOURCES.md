@@ -67,8 +67,8 @@ Remove an virtual environment:
 
 Create a spec list file from the current environment:
 
-`conda list --explicit > spec-file.txt`
+`conda list --explicit > spec-list.txt`
 
 Create a new environment from this spec-list:
 
-`conda create --name myenv --file spec-file.txt`
+`conda create --name myenv --file spec-list.txt`
