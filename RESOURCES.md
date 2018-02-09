@@ -69,4 +69,4 @@ Create a spec list file from the current environment:
 
 Create a new environment from this spec-list:
 
-`conda create --name myenv --file spec-list.txt`
+`conda create --name PYTN --file spec-list.txt`
