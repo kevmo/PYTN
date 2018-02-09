@@ -64,3 +64,11 @@ Deactivate a virtual environment:
 Remove an virtual environment:
 
 `conda env remove -n PYTN`
+
+Create a spec list file from the current environment:
+
+`conda list --explicit > spec-file.txt`
+
+Create a new environment from this spec-list:
+
+`conda create --name myenv --file spec-file.txt`
