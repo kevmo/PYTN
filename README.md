@@ -21,6 +21,8 @@ following:
 
 `git clone https://github.com/kevmo/pytn`
 
+(and then `cd pytn`)
+
 
 **2. Create a virtual environment using `conda`.**
 
