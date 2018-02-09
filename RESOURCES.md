@@ -23,29 +23,27 @@ Python
 
 ## Books
 
-Data Science From Scratch, Joel Grus, O'Reilly
+Data Science From Scratch, Joel Grus, O'Reilly, 2015.
 
-Python For Data Analysis, 2nd Edition, Wes McKinney, O'Reilly
+Python For Data Analysis, 2nd Edition, Wes McKinney, O'Reilly, 2017.
 
-The Manga Guide To Linear Algebra, No Starch Press, i
-
-
-## Articles 
-
-[Split-Apply-Combine](https://www.jstatsoft.org/htaccess.php?volume=40&type=i&issue=01&paper=true), Hadley Wickham,
- _Journal of Statistical Software_, April 2011
-
-
-[Why is Python growing so quickly?](https://stackoverflow.blog/2017/09/14/python-growing-quickly/)
-
-
-[Tag clouds](https://en.wikipedia.org/wiki/Tag_cloud)
-
-
+The Manga Guide To Linear Algebra, by Shin Takahashi, Iroha Inoue 
+and Trend-Pro Co., Ltd., No Starch Press, 2012.
 
 ### Community 
 
 [Reddit.com/r/datascience](https://www.reddit.com/r/datascience/)
+
+## Articles 
+
+[Why is Python growing so quickly?](https://stackoverflow.blog/2017/09/14/python-growing-quickly/)
+
+[Tag clouds](https://en.wikipedia.org/wiki/Tag_cloud)
+
+[Split-Apply-Combine](https://www.jstatsoft.org/htaccess.php?volume=40&type=i&issue=01&paper=true), Hadley Wickham,
+ _Journal of Statistical Software_, April 2011.
+
+
 
 ## Handy `conda` commands
 
