@@ -43,7 +43,7 @@ and Trend-Pro Co., Ltd., No Starch Press, 2012.
 [Split-Apply-Combine](https://www.jstatsoft.org/htaccess.php?volume=40&type=i&issue=01&paper=true), Hadley Wickham,
  _Journal of Statistical Software_, April 2011.
 
-
+[We Need Both Exploratory and Confirmatory](http://www.aliquote.org/cours/2013_AS/docs/Tukey1980.pdf), John Tukey, _The American Statistician_, 1980.
 
 ## Handy `conda` commands
 

@@ -65,6 +65,9 @@ conda install notebook ipykernel
 ipython kernel install --user
 ```
 
+If you're not on a Mac, you will need to manually install the packages
+contained in the notebook.
+
 ## Errata
 
 Errata will go here.
