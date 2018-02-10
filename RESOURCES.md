@@ -5,20 +5,22 @@
 
 [Getting Started With Anaconda](https://conda.io/docs/user-guide/getting-started.html)
 
-Jupyter Notebook
+[Jupyter Notebook Quickstart](https://jupyter.readthedocs.io/en/latest/content-quickstart.html)
 
 
 ## Python Libraries
 
 [NumPy Quickstart](https://docs.scipy.org/doc/numpy/user/quickstart.html)
 
-matplotlib
+[10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
 
-Python
+[Matplotlib tutorials](https://matplotlib.org/tutorials/index.html)
 
 [WordCloud.generate_from_frequencies](https://amueller.github.io/word_cloud/generated/wordcloud.WordCloud.html#wordcloud.WordCloud.generate_from_frequencies)
 
 [nltk](http://www.nltk.org) + [nltk book](http://www.nltk.org/book)
+
+[NetworkX tutorial](https://networkx.github.io/documentation/networkx-1.10/tutorial/index.html)
 
 
 ## Books
@@ -29,6 +31,9 @@ Python For Data Analysis, 2nd Edition, Wes McKinney, O'Reilly, 2017.
 
 The Manga Guide To Linear Algebra, by Shin Takahashi, Iroha Inoue 
 and Trend-Pro Co., Ltd., No Starch Press, 2012.
+
+Short, free excellent book from GitHub: [Development Workflows for Data Scientists](https://resources.github.com/downloads/development-workflows-data-scientists.pdf), 
+Ciara Byrne, O'Reilly, 2017.
 
 ### Community 
 
